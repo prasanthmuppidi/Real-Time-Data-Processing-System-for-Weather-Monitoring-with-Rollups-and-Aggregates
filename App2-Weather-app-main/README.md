@@ -2,7 +2,6 @@
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/2c4fc70a-9633-485e-a3d6-aef57359b81a">
 
-Hosted link: https://prasanth-2002.github.io/App2-Weather-app/
 
 
 ## Overview
